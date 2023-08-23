@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tailwinds-portfolio/static/css/main.8a127ed2.css",
-    "main.js": "/tailwinds-portfolio/static/js/main.780fa074.js",
-    "static/media/Headshot.jpeg": "/tailwinds-portfolio/static/media/Headshot.32983341127b83e34c6e.jpeg",
-    "static/media/1st-project.jpg": "/tailwinds-portfolio/static/media/1st-project.d3503a4ecee6a28664c5.jpg",
-    "static/media/project2-splash2.jpg": "/tailwinds-portfolio/static/media/project2-splash2.2c967b48dcd6913baa46.jpg",
-    "static/media/regex-img.jpg": "/tailwinds-portfolio/static/media/regex-img.bc378a8a8048da323e82.jpg",
-    "static/media/mongoose-img.jpg": "/tailwinds-portfolio/static/media/mongoose-img.3ec59d7ca6eb7644fa77.jpg",
-    "static/media/sequelize-img.jpg": "/tailwinds-portfolio/static/media/sequelize-img.65d49d6d1879a3008e47.jpg",
-    "static/media/weather-img.jpg": "/tailwinds-portfolio/static/media/weather-img.38e2761de3cc799e0a4e.jpg",
-    "index.html": "/tailwinds-portfolio/index.html",
-    "main.8a127ed2.css.map": "/tailwinds-portfolio/static/css/main.8a127ed2.css.map",
-    "main.780fa074.js.map": "/tailwinds-portfolio/static/js/main.780fa074.js.map"
+    "main.css": "/tailwind-portfolio/static/css/main.8a127ed2.css",
+    "main.js": "/tailwind-portfolio/static/js/main.e6af5b08.js",
+    "static/media/Headshot.jpeg": "/tailwind-portfolio/static/media/Headshot.32983341127b83e34c6e.jpeg",
+    "static/media/1st-project.jpg": "/tailwind-portfolio/static/media/1st-project.d3503a4ecee6a28664c5.jpg",
+    "static/media/project2-splash2.jpg": "/tailwind-portfolio/static/media/project2-splash2.2c967b48dcd6913baa46.jpg",
+    "static/media/regex-img.jpg": "/tailwind-portfolio/static/media/regex-img.bc378a8a8048da323e82.jpg",
+    "static/media/mongoose-img.jpg": "/tailwind-portfolio/static/media/mongoose-img.3ec59d7ca6eb7644fa77.jpg",
+    "static/media/sequelize-img.jpg": "/tailwind-portfolio/static/media/sequelize-img.65d49d6d1879a3008e47.jpg",
+    "static/media/weather-img.jpg": "/tailwind-portfolio/static/media/weather-img.38e2761de3cc799e0a4e.jpg",
+    "index.html": "/tailwind-portfolio/index.html",
+    "main.8a127ed2.css.map": "/tailwind-portfolio/static/css/main.8a127ed2.css.map",
+    "main.e6af5b08.js.map": "/tailwind-portfolio/static/js/main.e6af5b08.js.map"
   },
   "entrypoints": [
     "static/css/main.8a127ed2.css",
-    "static/js/main.780fa074.js"
+    "static/js/main.e6af5b08.js"
   ]
 }
